@@ -1,13 +1,12 @@
 <?php
 
 /*
-	Plugin Name: Online User Count
-	Plugin URI: https://github.com/wgergeus/Q2A-Online-User-Count
+	Plugin Name: Online User Count with Bangla Language
+	Plugin URI: https://github.com/oXamiloo/q2a-online-user-count
 	Plugin Description: Q2A Online User And Visit Count Widget
 	Plugin Version: 2.0
 	Plugin Date: 2013-12-16
-	Plugin Author: Ali Sayahiyan 
-	Plugin Author URI: http://question2answer-farsi.com
+	Plugin Author: Ali Sayahiyan (Bangla Language by Jamil)
 	Plugin License: GPLv2
 	Plugin Minimum Question2Answer Version: 1.6
 */
