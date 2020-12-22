@@ -1,9 +1,9 @@
-# Q2A - Online User Count
+# Q2A - Online User Count Bangla
 
-- Plugin Name: Online User Count
+- Plugin Name: Online User Count with Bangla Language
 - Plugin Version: 2.0
 - Plugin Date: 2013-12-16
-- Plugin Author: Ali Sayahiyan
+- Plugin Author: Ali Sayahiyan (Bangla language by Jamil)
 - Plugin License: GPLv2
 - Plugin Minimum [Question2Answer](http://www.question2answer.org/) Version: 1.6
 
