@@ -153,16 +153,7 @@ class show_online_user_count_widget {
 		 $themeobject->output(str_replace('^',$total_count,qa_lang_html('show_online_user_count_lang/total_count')));
 		 $themeobject->output('</div>');
 		 $themeobject->output('</div>');
-	/*	if(!qa_is_logged_in())
-		{
-			$themeobject->output('<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>');
-			$themeobject->output('<script>');
-			$themeobject->output('(adsbygoogle = window.adsbygoogle || []).push({');
-			$themeobject->output('google_ad_client: "ca-pub-6875555204127868",');
-			$themeobject->output('enable_page_level_ads: true');
-			$themeobject->output(' });');
-			$themeobject->output('</script>');
-		} 
+	/*	
 	*/
 		}
 }
